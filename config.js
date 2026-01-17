@@ -22,18 +22,18 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I love you honeybun! ❤️"                   // Secret hover message
+            text: "Will you be my valentine's?",                                    // First interaction
+            yesBtn: "Maybeeeeee",                                             // Text for "Yes" button
+            noBtn: "Itna easily to definitely nahi",                                               // Text for "No" button
+            secretAnswer: "Only if you make it worth my time!"                   // Secret hover message
         },
         second: {
-            text: "Kitna pyaar krti hai?",                          // For the love meter
+            text: "Pehle thoda cringe ho jaye. Kitna pyaar krti hai?",                          // For the love meter
             startText: "Itnaaaaa",                                   // Text before the percentage
             nextBtn: "Chal aage badh ab..."                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
+            text: "Will you come with me to Morocco to celebrate 2 years of our love? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Mauj krdi aapne tooo! 🎉💝💖💝💓",
-        message: "Now come and get a big warm hug and a huge kiss from me!",
+        message: "Aaja ab mujh se kissy and tickets to morocco leleeee!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
